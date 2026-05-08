@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ContentControl/ContentControl.csproj" />
+  <Project Path="WpfApp-6.2.4-Label/WpfApp-6.2.4-Label.csproj" />
+</Solution>

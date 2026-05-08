@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/第06章-控件/ContentControl/.vs
+/第06章-控件/ContentControl/ContentControl/obj/Debug
+/第06章-控件/ContentControl/ContentControl/bin/Debug
+/第06章-控件/ContentControl/WpfApp-6.2.4-Label/bin/Debug
+/第06章-控件/ContentControl/WpfApp-6.2.4-Label/obj/Debug
+/第06章-控件/ContentControl/WpfAppLabel/obj/Debug
